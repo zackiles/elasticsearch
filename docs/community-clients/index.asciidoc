@@ -99,6 +99,9 @@ Also see the {client}/javascript-api/current/index.html[official Elasticsearch J
 * https://github.com/roundscope/ember-data-elasticsearch-kit[ember-data-elasticsearch-kit]:
   An ember-data kit for both pushing and querying objects to Elasticsearch cluster
 
+* https://github.com/zackiles/elasticsearch-odm[elasticsearch-odm]
+ODM/ORM library for Node.js. Wraps the official Elasticsearch client.
+
 The following project appears to be abandoned:
 
 * https://github.com/ramv/node-elastical[node-elastical]:
